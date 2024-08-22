@@ -1,0 +1,7 @@
+C:\Users\User\Documents\D-Drive\rbcd-research\Rubeus\Rubeus\bin\Debug\Rubeus.exe.config
+C:\Users\User\Documents\D-Drive\rbcd-research\Rubeus\Rubeus\bin\Debug\Rubeus.exe
+C:\Users\User\Documents\D-Drive\rbcd-research\Rubeus\Rubeus\bin\Debug\Rubeus.pdb
+C:\Users\User\Documents\D-Drive\rbcd-research\Rubeus\Rubeus\obj\Debug\Rubeus.csproj.AssemblyReference.cache
+C:\Users\User\Documents\D-Drive\rbcd-research\Rubeus\Rubeus\obj\Debug\Rubeus.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\D-Drive\rbcd-research\Rubeus\Rubeus\obj\Debug\Rubeus.exe
+C:\Users\User\Documents\D-Drive\rbcd-research\Rubeus\Rubeus\obj\Debug\Rubeus.pdb

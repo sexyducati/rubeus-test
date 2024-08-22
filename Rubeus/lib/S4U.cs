@@ -448,7 +448,7 @@ namespace Rubeus
 
             Console.WriteLine("[*] Building S4U2self request for: '{0}@{1}'", userName, domain);
 
-            byte[] tgsBytes = TGS_REQ.NewTGSReq(userName, domain, userName, ticket, clientKey, etype, Interop.KERB_ETYPE.subkey_keymaterial, false, targetUser, false, false, opsec);
+            byte[] tgsBytes = TGS_REQ.NewTGSReq(userName, domain, userName, ticket, clientKey, etype, Interop.KERB_ETYPE.subkey_keymaterial, false, targetUser, false, false, opsec, false, kirbi, domain, true );
 
             byte[] response = null;
 
